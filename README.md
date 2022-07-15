@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarahsimionescu
-- 👀 I’m interested in all things STEM, videography and business!
-- 🌱 I’m currently in McMaster's computer science co-op undergraduate program.
-- 📫 You can reach me at sarah.simionescu@gmail.com and simiones@mcmaster.ca
+- 👀 I’m interested in privacy-preserving AI as well as fun personal projects!
+- 🌱 I’m currently in McMaster's computer science co-op undergraduate program and a Technical Writer and Privacy Analyst under Professor Wenbo He.
+- 📫 You can reach me at simiones@mcmaster.ca
 
 <!---
 sarahsimionescu/sarahsimionescu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
