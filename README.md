@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahsimionescu
 - 👀 I’m interested in privacy-preserving AI as well as fun personal projects!
-- 🌱 I’m currently in McMaster's computer science co-op undergraduate program and a Technical Writer and Privacy Analyst under Professor Wenbo He.
+- 🌱 I’m currently in McMaster's computer science co-op undergraduate program and a Technical Writer and Privacy Analyst at McMaster University under Professor Wenbo He.
 - 📫 You can reach me at simiones@mcmaster.ca
 
 <!---
