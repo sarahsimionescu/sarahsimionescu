@@ -1,7 +1,7 @@
 ![](https://github.com/sarahsimionescu/sarahsimionescu/blob/main/Banner.png)
 - 👋 Hi, I’m @sarahsimionescu
 - 👀 I’m interested in privacy-preserving AI as well as fun personal projects!
-- 🌱 I’m currently in McMaster's computer science co-op undergraduate program and a Technical Writer and Privacy Analyst at McMaster University under Professor Wenbo He.
+- 🌱 I'm currenly an Analyst @ CIBC Global Markets, Alternate Solutions Group and a Computer Science Co-op Student at McMaster University
 - 📫 You can reach me at sarah.simionescu@gmail.com and simiones@mcmaster.ca (for McMaster-related inquiries)
 
 <!---
